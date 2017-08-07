@@ -33,7 +33,7 @@
     <distributionManagement>
 
         <repository>
-            <id>deployment</id>
+            <id>nexus-repositories</id>
             <name>Internal Releases</name>
             <url>http://localhost:8081/repository/maven-releases/</url>
         </repository>
